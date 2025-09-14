@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p2MW14ZDNhZnE4dWlzajNtbTVoZG01dzFtdWtjMWtyd2h0cmlsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f0ZyoaG4n13Wc/giphy.gif](https://www.pinterest.com/pin/73253931434705621/)" alt="Anime gif" width="600"/>
+  <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" alt="Anime gif" width="600"/>
 </p>
 
 <h1 align="center" style="font-size:120px; font-family: 'Comic Sans MS', cursive, sans-serif;">
