@@ -1,9 +1,7 @@
 <!-- Гифка в начале -->
-<p align="center">
   <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" 
        alt="cozy banner" 
        style="width:100%; height:auto; display:block;" />
-</p>
 
 <!-- Имя -->
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; margin-bottom:50px;">
@@ -58,8 +56,5 @@
 <h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; margin-bottom:40px;">
   GitHub Stats
 </h2>
-<p align="center" style="margin-bottom:80px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
-  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
-</p>
+
