@@ -11,16 +11,17 @@
 </div>
 
 <!-- About me: две колонки -->
-<div align="center" style="font-size:30px; line-height:2em; margin-top:50px; margin-bottom:50px;">
-  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:100px;">
+<div align="center" style="margin-top:50px; margin-bottom:50px;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em; margin-right:80px;">
     🌸 I study at college as a technician-programmer<br/>
     📚 I am gaining experience in development and exploring new technologies
   </div>
-  <div style="display:inline-block; vertical-align:top; text-align:left;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em;">
     🎯 My goal is to work in an IT company and grow as a specialist<br/>
     ☕ I love coziness, cute things and coding with a cup of coffee
   </div>
 </div>
+
 
 <!-- Connection -->
 <div align="center" style="font-size:80px; font-family: 'Comic Sans MS', cursive, sans-serif; margin:60px 0 30px 0;">
