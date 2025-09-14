@@ -18,7 +18,7 @@
 <td width="50%" align="left">
 
 - My goal is to work in an IT company and grow as a specialist  
-- I love coziness, cute things and coding with a cup of coffee
+- I love coziness, cute things and coding with a cup of coffee  
 
 </td>
 </tr>
