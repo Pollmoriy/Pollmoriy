@@ -5,13 +5,15 @@
        style="width:100%; height:auto; display:block;" />
 </p>
 
-<!-- Имя -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; line-height:1.1; margin-bottom:80px;">
+<!-- ФИ -->
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; line-height:1.1;">
   Shevtcova Polina
-</div>
+</h1>
+
+<br><br><br>
 
 <!-- About me: две колонки через таблицу -->
-<table align="center" style="font-size:36px; line-height:2em; margin-bottom:100px;">
+<table align="center" style="font-size:36px; line-height:2em;">
   <tr>
     <td style="padding-right:80px; text-align:left;">
       🌸 I study at college as a technician-programmer<br/>
@@ -24,11 +26,14 @@
   </tr>
 </table>
 
+<br><br><br>
+
 <!-- Connection -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Connection with me
-</div>
-<div style="height:60px;"></div> <!-- Отступ после надписи -->
+</h2>
+
+<br><br>
 
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
@@ -39,15 +44,16 @@
   </a>
 </p>
 
-<div style="height:100px;"></div> <!-- Отступ между блоками -->
+<br><br><br>
 
 <!-- Tech Stack -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Tech Stack
-</div>
-<div style="height:60px;"></div> <!-- Отступ после надписи -->
+</h2>
 
-<p align="center" style="font-size:32px; line-height:2.2em; margin-bottom:100px;">
+<br><br>
+
+<p align="center" style="font-size:32px; line-height:2.2em;">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&hide_border=true" />&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&hide_border=true" />&nbsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&hide_border=true" />&nbsp;
@@ -60,16 +66,17 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white&hide_border=true" />
 </p>
 
-<div style="height:100px;"></div> <!-- Отступ между блоками -->
+<br><br><br>
 
 <!-- GitHub Stats -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   GitHub Stats
-</div>
-<div style="height:60px;"></div> <!-- Отступ после надписи -->
+</h2>
 
-<p align="center" style="margin-bottom:100px;">
+<br><br>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
-  <br/><br/>
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
 </p>
