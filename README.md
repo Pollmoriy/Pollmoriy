@@ -3,14 +3,12 @@
 
 <h1 align="center">Shevtcova Polina 🌸</h1>  
 
----
 
 ## 📌 About Me  
 <p align="center">
   <img src="https://github.com/username/username/blob/main/pinboard.svg" width="600px"/>
 </p>
 
----
 
 ## 🚀 Skills  
 <p align="center">
@@ -29,17 +27,14 @@
 
 </p>
 
----
-
 ## 📊 Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
 
 ## 🌸 Contacts  
 <p align="center">
- ✉️ email@example.com | 💬 Telegram: @nickname  
+💬 Telegram: @nickname  
 </p>
