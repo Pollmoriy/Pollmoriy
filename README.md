@@ -11,14 +11,14 @@
 </h1>
 
 <!-- About me: две колонки -->
-<div align="center" style="font-size:30px; line-height:2em; margin-top:50px;">
-  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:100px;">
-    🌸 I study at college as a technician-programmer<br/>
-    📚 I am gaining experience in development and exploring new technologies
+<div align="center" style="font-size:20px; line-height:1.8em;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:50px;">
+    - I study at college as a technician-programmer<br/>
+    - I am gaining experience in development and exploring new technologies
   </div>
   <div style="display:inline-block; vertical-align:top; text-align:left;">
-    🎯 My goal is to work in an IT company and grow as a specialist<br/>
-    ☕ I love coziness, cute things and coding with a cup of coffee
+    - My goal is to work in an IT company and grow as a specialist<br/>
+    - I love coziness, cute things and coding with a cup of coffee ☕
   </div>
 </div>
 
