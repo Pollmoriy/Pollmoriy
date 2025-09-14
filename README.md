@@ -5,18 +5,18 @@
        style="width:100%; height:auto; display:block; margin:0; padding:0;" />
 </p>
 
-<!-- Имя как картинка -->
-<h1 align="center" style="font-size:220px; font-family: 'Comic Sans MS', cursive, sans-serif; line-height:1.1;">
-  <b>Shevtcova Polina</b>
-</h1>
+<!-- Имя супер крупно через div -->
+<div align="center" style="font-size:220px; font-family: 'Comic Sans MS', cursive, sans-serif; font-weight:bold; line-height:1.1; margin:20px 0;">
+  Shevtcova Polina
+</div>
 
 <!-- About me: две колонки -->
-<div align="center" style="font-size:30px; line-height:2em; margin-top:20px; margin-bottom:50px;">
-  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:100px;">
+<div align="center" style="margin-top:50px; margin-bottom:50px;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em; margin-right:80px;">
     🌸 I study at college as a technician-programmer<br/>
     📚 I am gaining experience in development and exploring new technologies
   </div>
-  <div style="display:inline-block; vertical-align:top; text-align:left;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em;">
     🎯 My goal is to work in an IT company and grow as a specialist<br/>
     ☕ I love coziness, cute things and coding with a cup of coffee
   </div>
@@ -39,7 +39,7 @@
 <div align="center" style="font-size:80px; font-family: 'Comic Sans MS', cursive, sans-serif; margin:60px 0 30px 0;">
   Tech Stack
 </div>
-<p align="center" style="font-size:28px;">
+<p align="center" style="font-size:32px; line-height:2.2em; margin-bottom:60px;">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&hide_border=true" />&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&hide_border=true" />&nbsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&hide_border=true" />&nbsp;
@@ -56,8 +56,8 @@
 <div align="center" style="font-size:80px; font-family: 'Comic Sans MS', cursive, sans-serif; margin:60px 0 30px 0;">
   GitHub Stats
 </div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
+<p align="center" style="margin-bottom:60px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
 </p>
