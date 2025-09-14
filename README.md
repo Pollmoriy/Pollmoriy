@@ -34,10 +34,10 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ShevtcovaPolina">
+  <a href="https://github.com/Pollmoriy">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hide_border=true"/>
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/pollmoriy">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&hide_border=true"/>
   </a>
 </p>
