@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p2MW14ZDNhZnE4dWlzajNtbTVoZG01dzFtdWtjMWtyd2h0cmlsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f0ZyoaG4n13Wc/giphy.gif" alt="Anime gif" width="600"/>
 </p>
 
-<h1 align="center" style="font-size:70px; font-family: 'Comic Sans MS', cursive, sans-serif;">
+<h1 align="center" style="font-size:120px; font-family: 'Comic Sans MS', cursive, sans-serif;">
   <b>Shevtcova Polina</b>
 </h1>
 
