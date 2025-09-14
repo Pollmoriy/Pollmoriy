@@ -4,9 +4,9 @@
        style="width:100%; height:auto; display:block;" />
 
 <!-- Имя -->
-<h0 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; margin-bottom:50px;">
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:250px; font-weight:bold; margin-bottom:50px;">
   Shevtcova Polina
-</h0>
+</h1>
 
 <!-- About me: две колонки через таблицу -->
 <table align="center" style="font-size:36px; line-height:2em; margin-bottom:80px;">
