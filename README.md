@@ -10,7 +10,6 @@
   Shevtcova Polina
 </h1>
 
-<br><br><br>
 
 <!-- About me: две колонки через таблицу -->
 <table align="center" style="font-size:36px; line-height:2em;">
@@ -26,7 +25,6 @@
   </tr>
 </table>
 
-<br><br><br>
 
 <!-- Connection -->
 <div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
@@ -43,8 +41,6 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&hide_border=true"/>
   </a>
 </p>
-
-<br><br><br>
 
 <!-- Tech Stack -->
 <div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
@@ -66,8 +62,6 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white&hide_border=true" />
 </p>
 
-<br><br><br>
-
 <!-- GitHub Stats -->
 <div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   GitHub Stats
@@ -76,7 +70,5 @@
 <br><br>
 
 <p align="center" style="margin-bottom:100px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
-  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
 </p>
