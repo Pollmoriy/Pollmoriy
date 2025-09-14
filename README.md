@@ -29,9 +29,9 @@
 <br><br><br>
 
 <!-- Connection -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Connection with me
-</h2>
+</div>
 
 <br><br>
 
@@ -47,9 +47,9 @@
 <br><br><br>
 
 <!-- Tech Stack -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Tech Stack
-</h2>
+</div>
 
 <br><br>
 
@@ -69,13 +69,13 @@
 <br><br><br>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   GitHub Stats
-</h2>
+</div>
 
 <br><br>
 
-<p align="center">
+<p align="center" style="margin-bottom:100px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
