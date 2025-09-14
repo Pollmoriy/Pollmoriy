@@ -31,7 +31,7 @@
   Connection with me
 </div>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
@@ -47,7 +47,7 @@
   Tech Stack
 </div>
 
-<br><br>
+<br>
 
 <p align="center" style="font-size:32px; line-height:2.2em;">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&hide_border=true" />&nbsp;
@@ -67,7 +67,7 @@
   GitHub Stats
 </div>
 
-<br><br>
+<br>
 
 <p align="center" style="margin-bottom:100px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
