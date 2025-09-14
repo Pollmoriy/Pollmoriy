@@ -6,24 +6,24 @@
 </p>
 
 <!-- Имя -->
-<h1 align="center" style="font-size:120px; font-family: 'Comic Sans MS', cursive, sans-serif;">
+<h1 align="center" style="font-size:150px; font-family: 'Comic Sans MS', cursive, sans-serif; line-height:1.2;">
   <b>Shevtcova Polina</b>
 </h1>
 
-<!-- About me: две колонки без таблицы -->
-<div align="center" style="font-size:20px; line-height:1.8em;">
-  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:50px;">
-    - I study at college as a technician-programmer<br/>
-    - I am gaining experience in development and exploring new technologies
+<!-- About me: две колонки -->
+<div align="center" style="font-size:28px; line-height:2em; margin-top:40px;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:80px;">
+    🌸 I study at college as a technician-programmer<br/>
+    📚 I am gaining experience in development and exploring new technologies
   </div>
   <div style="display:inline-block; vertical-align:top; text-align:left;">
-    - My goal is to work in an IT company and grow as a specialist<br/>
-    - I love coziness, cute things and coding with a cup of coffee ☕
+    🎯 My goal is to work in an IT company and grow as a specialist<br/>
+    ☕ I love coziness, cute things and coding with a cup of coffee
   </div>
 </div>
 
 <!-- Connection -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; margin-top:40px;">Connection with me</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:60px; margin-top:60px;">Connection with me</h2>
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -34,8 +34,8 @@
 </p>
 
 <!-- Tech Stack -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; margin-top:40px;">Tech Stack</h2>
-<p align="center">
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:60px; margin-top:60px;">Tech Stack</h2>
+<p align="center" style="font-size:26px;">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />&nbsp;
@@ -49,7 +49,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; margin-top:40px;">GitHub Stats</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:60px; margin-top:60px;">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" />
   <br/>
