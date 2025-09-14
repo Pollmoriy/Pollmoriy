@@ -1,34 +1,31 @@
-<!-- Вверху гифка/картинка (анимешная атмосфера) -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2p2MW14ZDNhZnE4dWlzajNtbTVoZG01dzFtdWtjMWtyd2h0cmlsciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f0ZyoaG4n13Wc/giphy.gif" alt="Anime gif" width="600"/>
 </p>
 
-<h1 align="center"><b>Shevtcova Polina</b></h1>
+<h1 align="center" style="font-size:70px; font-family: 'Comic Sans MS', cursive, sans-serif;">
+  <b>Shevtcova Polina</b>
+</h1>
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" align="left">
 
-✨ About me  
-- 🌸 I study at college as a technician-programmer  
-- 📚 I am gaining experience in development and exploring new technologies  
-- 🎯 My goal is to work in an IT company and grow as a specialist  
-- ☕ I love coziness, cute things and coding with a cup of coffee  
+- I study at college as a technician-programmer  
+- I am gaining experience in development and exploring new technologies  
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="left">
 
-<img src="https://img.shields.io/badge/Notes-%F0%9F%93%9D-lightpink?style=for-the-badge" alt="Notes"/>
+- My goal is to work in an IT company and grow as a specialist  
+- I love coziness, cute things and coding with a cup of coffee ☕  
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<h2 align="center">🌸 Connection with me 🌸</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">🌸 Connection with me 🌸</h2>
 
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
@@ -39,7 +36,7 @@
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack 💻</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">💻 Tech Stack 💻</h2>
 
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nbsp;
@@ -54,9 +51,9 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
 </p>
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShevtcovaPolina&show_icons=true&theme=tokyonight" alt="GitHub stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShevtcovaPolina&theme=tokyonight" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShevtcovaPolina&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShevtcovaPolina&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
