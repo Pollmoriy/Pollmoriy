@@ -6,7 +6,7 @@
 </p>
 
 <!-- Имя -->
-<h1 align="center" style="font-size:150px; font-family: 'Comic Sans MS', cursive, sans-serif; line-height:1.2;">
+<h1 align="center" style="font-size:200px; font-family: 'Comic Sans MS', cursive, sans-serif; line-height:1.2;">
   <b>Shevtcova Polina</b>
 </h1>
 
