@@ -6,19 +6,17 @@
 </p>
 
 <!-- Имя как картинка -->
-<p align="center">
-  <img src="https://github.com/Pollmoriy/Pollmoriy/raw/main/name_banner.png" 
-       alt="Shevtcova Polina" 
-       style="width:90%; max-width:1500px; display:block; margin:20px auto;" />
-</p>
+<h1 align="center" style="font-size:220px; font-family: 'Comic Sans MS', cursive, sans-serif; line-height:1.1;">
+  <b>Shevtcova Polina</b>
+</h1>
 
 <!-- About me: две колонки -->
-<div align="center" style="margin-top:50px; margin-bottom:50px;">
-  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em; margin-right:80px;">
+<div align="center" style="font-size:30px; line-height:2em; margin-top:50px;">
+  <div style="display:inline-block; vertical-align:top; text-align:left; margin-right:100px;">
     🌸 I study at college as a technician-programmer<br/>
     📚 I am gaining experience in development and exploring new technologies
   </div>
-  <div style="display:inline-block; vertical-align:top; text-align:left; font-size:36px; line-height:2em;">
+  <div style="display:inline-block; vertical-align:top; text-align:left;">
     🎯 My goal is to work in an IT company and grow as a specialist<br/>
     ☕ I love coziness, cute things and coding with a cup of coffee
   </div>
