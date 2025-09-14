@@ -1,40 +1,53 @@
-![header](https://i.ibb.co/smTHm4K/anime-banner.gif)  
-<!-- ↑ милый gif-баннер -->
-
-<h1 align="center">Shevtcova Polina 🌸</h1>  
-
-
-## 📌 About Me  
 <p align="center">
-  <img src="https://github.com/username/username/blob/main/pinboard.svg" width="600px"/>
+  <img src="BANNER_URL" alt="cozy anime banner" width="100%"/>
 </p>
 
-
-## 🚀 Skills  
 <p align="center">
-  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Workbench](https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-
+  <img src="SVG_NAME_URL" alt="Shevtcova Polina" width="700"/>
 </p>
 
-## 📊 Statistics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165"/>
+  <strong style="font-size:18px">Shevtcova Polina</strong><br/>
+  <em>Tech student • Aspiring Software Engineer • Cozy coder ☕🌸</em>
 </p>
 
+---
 
-## 🌸 Contacts  
 <p align="center">
-💬 Telegram: @nickname  
+  ## About me
 </p>
+
+<p align="center">
+  <!-- optionally keep the pinboard image you liked -->
+  <img src="PINBOARD_SVG_URL" alt="About me pinboard" width="900"/>
+</p>
+
+<p align="center">
+  <em>Student at college, gaining hands-on experience through projects and coursework. Seeking a role in a software company to grow professionally. Open to collaboration and mentorship.</em>
+</p>
+
+---
+
+<p align="center">
+  ## Tech Stack
+</p>
+
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=cpp,python,sqlite,mysql,html,css,figma,photoshop,git,qt)](https://skillicons.dev)
+</p>
+
+<p align="center">
+  <!-- Mermaid pie (paste exactly as-is) -->
+```mermaid
+pie title Skill proficiency
+  "C++" : 75
+  "Python" : 80
+  "SQLite" : 70
+  "MySQL" : 65
+  "HTML" : 60
+  "CSS" : 60
+  "Workbench" : 50
+  "Figma" : 55
+  "Photoshop" : 50
+  "Git" : 70
+  "Qt" : 60
