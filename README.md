@@ -1,9 +1,7 @@
 <!-- Гифка в начале -->
-<p align="center">
   <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" 
        alt="cozy banner" 
        style="width:100%; height:auto; display:block;" />
-</p>
 
 <!-- ФИ -->
 <h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; line-height:1.1;">
