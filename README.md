@@ -5,10 +5,12 @@
        style="width:100%; height:auto; display:block; margin:0; padding:0;" />
 </p>
 
-<!-- Имя супер крупно -->
-<div align="center" style="font-size:300px; font-family: 'Comic Sans MS', cursive, sans-serif; font-weight:bold; line-height:1.1; margin:20px 0;">
-  Shevtcova Polina
-</div>
+<!-- Имя как картинка -->
+<p align="center">
+  <img src="https://github.com/Pollmoriy/Pollmoriy/raw/main/name_banner.png" 
+       alt="Shevtcova Polina" 
+       style="width:90%; max-width:1500px; display:block; margin:20px auto;" />
+</p>
 
 <!-- About me: две колонки -->
 <div align="center" style="margin-top:50px; margin-bottom:50px;">
@@ -21,7 +23,6 @@
     ☕ I love coziness, cute things and coding with a cup of coffee
   </div>
 </div>
-
 
 <!-- Connection -->
 <div align="center" style="font-size:80px; font-family: 'Comic Sans MS', cursive, sans-serif; margin:60px 0 30px 0;">
