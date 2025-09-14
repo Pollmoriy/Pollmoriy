@@ -1,15 +1,17 @@
 <!-- Гифка в начале -->
+<p align="center">
   <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" 
        alt="cozy banner" 
        style="width:100%; height:auto; display:block;" />
+</p>
 
 <!-- Имя -->
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:250px; font-weight:bold; margin-bottom:50px;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:150px; font-weight:bold; line-height:1.1; margin-bottom:80px;">
   Shevtcova Polina
-</h1>
+</div>
 
 <!-- About me: две колонки через таблицу -->
-<table align="center" style="font-size:36px; line-height:2em; margin-bottom:80px;">
+<table align="center" style="font-size:36px; line-height:2em; margin-bottom:100px;">
   <tr>
     <td style="padding-right:80px; text-align:left;">
       🌸 I study at college as a technician-programmer<br/>
@@ -23,9 +25,11 @@
 </table>
 
 <!-- Connection -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; margin-bottom:40px;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Connection with me
-</h2>
+</div>
+<div style="height:60px;"></div> <!-- Отступ после надписи -->
+
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hide_border=true"/>
@@ -35,11 +39,15 @@
   </a>
 </p>
 
+<div style="height:100px;"></div> <!-- Отступ между блоками -->
+
 <!-- Tech Stack -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; margin-top:80px; margin-bottom:40px;">
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
   Tech Stack
-</h2>
-<p align="center" style="font-size:32px; line-height:2.2em; margin-bottom:80px;">
+</div>
+<div style="height:60px;"></div> <!-- Отступ после надписи -->
+
+<p align="center" style="font-size:32px; line-height:2.2em; margin-bottom:100px;">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&hide_border=true" />&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&hide_border=true" />&nbsp;
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&hide_border=true" />&nbsp;
@@ -52,9 +60,16 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white&hide_border=true" />
 </p>
 
-<!-- GitHub Stats -->
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; margin-bottom:40px;">
-  GitHub Stats
-</h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
+<div style="height:100px;"></div> <!-- Отступ между блоками -->
 
+<!-- GitHub Stats -->
+<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
+  GitHub Stats
+</div>
+<div style="height:60px;"></div> <!-- Отступ после надписи -->
+
+<p align="center" style="margin-bottom:100px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub stats" style="max-width:800px;" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pollmoriy&theme=tokyonight&hide_border=true" alt="GitHub streak" style="max-width:800px;" />
+</p>
