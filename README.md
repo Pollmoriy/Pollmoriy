@@ -25,7 +25,7 @@
 </table>
 </div>
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">🌸 Connection with me 🌸</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">Connection with me</h2>
 
 <p align="center">
   <a href="https://github.com/ShevtcovaPolina">
@@ -36,7 +36,7 @@
   </a>
 </p>
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">💻 Tech Stack 💻</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">Tech Stack</h2>
 
 <p align="center">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />&nbsp;
@@ -51,7 +51,7 @@
   <img alt="Qt" src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
 </p>
 
-<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">📊 GitHub Stats 📊</h2>
+<h2 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pollmoriy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
