@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" alt="Anime gif" width="600"/>
-</p>
+<img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" 
+     alt="cozy banner" 
+     style="width:100%; height:auto; display:block; margin:0; padding:0;" />
 
 <h1 align="center" style="font-size:120px; font-family: 'Comic Sans MS', cursive, sans-serif;">
   <b>Shevtcova Polina</b>
