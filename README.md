@@ -61,9 +61,9 @@
 </p>
 
 <!-- GitHub Stats -->
-<div align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size:80px; font-weight:bold;">
-  GitHub Stats
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8e2de2,100:4a00e0&height=120&section=header&text=GitHub%20Stats&fontSize=50&fontColor=ffffff"/>
+</p>
 
 <br>
 
