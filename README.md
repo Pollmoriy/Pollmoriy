@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/1b3c5821c4ef798f196b30cc3eb46ac2.gif?raw=true" 
+  <img src="https://github.com/Pollmoriy/Pollmoriy/blob/main/загрузка.gif?raw=true" 
        alt="cozy banner" 
        width="100%" />
 </p>
