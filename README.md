@@ -7,7 +7,7 @@
 
 <!-- Name and Role -->
 <h1 align="center">Shevtcova Polina</h1>
-<h3 align="center">💻 Junior Software Engineer </h3>
+<h3 align="center">💻 Software Engineer </h3>
 
 <!-- About Me -->
 <table align="center">
