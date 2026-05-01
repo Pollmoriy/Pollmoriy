@@ -7,7 +7,7 @@
 
 <!-- Name and Role -->
 <h1 align="center">Shevtcova Polina</h1>
-<h3 align="center">💻 Junior Backend / Database Developer </h3>
+<h3 align="center">💻 Junior Backend Developer </h3>
 
 <!-- About Me -->
 <table align="center">
